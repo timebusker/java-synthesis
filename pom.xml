@@ -12,6 +12,7 @@
 
     <modules>
         <module>java-synthesis-1-1-object</module>
+        <module>java-synthesis-2-1-generics</module>
     </modules>
 
 
