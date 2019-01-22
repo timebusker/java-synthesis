@@ -14,6 +14,7 @@
         <module>java-synthesis-2-1-generics</module>
         <module>java-synthesis-2-2-proxy</module>
         <module>java-synthesis-3-1-logger</module>
+        <module>java-synthesis-1-2-collection</module>
     </modules>
 
     <properties>
@@ -35,6 +36,11 @@
             <groupId>com.timebusker</groupId>
             <artifactId>java-synthesis-3-1-logger</artifactId>
             <version>1.0.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.51</version>
         </dependency>
     </dependencies>
 
