@@ -15,6 +15,7 @@
         <module>java-synthesis-2-2-proxy</module>
         <module>java-synthesis-3-1-logger</module>
         <module>java-synthesis-1-2-collection</module>
+        <module>java-synthesis-2-3-thread</module>
     </modules>
 
     <properties>
